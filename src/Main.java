@@ -7,7 +7,7 @@ public class Main {
 		Scanner krasserscanner = new Scanner(System.in);
 
 		int temp;
-		int[] zahlenarray = new int[5];
+		int[] zahlenarray = new int[6];
 
 
 
